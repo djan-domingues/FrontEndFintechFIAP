@@ -1,0 +1,15 @@
+.imagem-carrossel{
+    object-fit: cover;
+    height: 400px;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.image-login{
+    object-fit: cover;
+    height: 1200px;
+}
+
